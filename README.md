@@ -1,16 +1,14 @@
-## Hi there 👋
+
+SHEY WILLIAMS
 
 <!--
-**sheywilliams/sheywilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a python programmer that is interested in data science, data analytics and machine learning.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on sheywilliams/college-management-system
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on data science programs
+- 🤔 I’m looking for help with machine learning and deep learning
+- 📫 How to reach me: sheywilliams99@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: astrology and nature
 -->
